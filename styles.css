@@ -1,0 +1,47 @@
+body {
+    background: black;
+}
+
+.post {
+    background: white;
+    width: 600px;
+    margin: auto;
+}
+
+.post-header {
+    display: flex;
+    font-size: large;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.superior {
+    display: flex;
+    align-items: center;
+}
+.post img {
+    width: 100%;
+}
+
+.post-body {
+    padding: 10px;
+}
+
+.post-icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.iconos {
+    display: flex;
+}
+
+p {
+    font-size: large;
+}
+
+.fa-solid {
+    padding: 5px;
+}
+
